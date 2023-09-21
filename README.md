@@ -2,7 +2,7 @@ Algorithms of  NLP
 Once the data has been preprocessed, an algorithm is developed to process it in a rules-based system. This system uses carefully designed linguistic rules. 
 Tokenization 
 1. Stopwords :    for preprocessing 
-2. Part-of-Speech Tagging :    Named Entity Recognition , Coreference Resolution, Speech Recognition
+2. Part-of-Speech Tagging :    Coreference Resolution, Speech Recognition
 3. Chunking -     grouping pos tags into some meaningful chunks 
 4. Chinking -     removing extra words from chunks
 5. Named Entity Recognition -     location, date ,person
